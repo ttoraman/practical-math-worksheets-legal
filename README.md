@@ -15,7 +15,7 @@ Pages in every language:
 - contact.html
 
 Contact email used:
-bilisimodev2021@gmail.com
+practicalmath2026@gmail.com
 
 Last updated:
 May 17, 2026
